@@ -9,6 +9,12 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.27.15] — 2026-09-30
+
+### Fixed
+
+- Codex plugin cards and composer now reference the bundled NotFair PNG logo instead of falling back to a generic icon. OpenAI presentation metadata is synchronized between the portable Agent Plugins manifest and the Codex compatibility manifest.
+
 ## [0.27.14] — 2026-09-25
 
 ### Changed

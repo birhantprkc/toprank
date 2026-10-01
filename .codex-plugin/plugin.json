@@ -1,6 +1,6 @@
 {
   "name": "notfair",
-  "version": "0.27.14",
+  "version": "0.27.15",
   "description": "The official ads, analytics, SEO, and GEO plugin from NotFair.",
   "author": {
     "name": "NotFair",
@@ -20,7 +20,7 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "NotFair",
-    "shortDescription": "Operate ads and analyze search performance.",
+    "shortDescription": "Ads, analytics, SEO, and GEO",
     "longDescription": "Connect once to operate Google, Meta, X, LinkedIn, Reddit, and TikTok Ads, WordPress, GoHighLevel, analyze GA4 and Search Console, and use open-source SEO and GEO workflows.",
     "developerName": "NotFair",
     "category": "Productivity",
@@ -36,6 +36,8 @@
       "Review my paid media performance across channels.",
       "Find my strongest SEO and content opportunities."
     ],
-    "brandColor": "#111827"
+    "brandColor": "#111827",
+    "logo": "./assets/notfair-icon.png",
+    "composerIcon": "./assets/notfair-icon.png"
   }
 }
